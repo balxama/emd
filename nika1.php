@@ -1,3 +1,4 @@
 <?php 
-echo " nika";
+echo "nika";
+echo "chuchurii";
 ?>
